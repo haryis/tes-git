@@ -1,8 +1,4 @@
 Membuat file3. txt
-<<<<<<< HEAD
-Menambah baris pada file3.txt
-=======
-Menambah baris di file3.txt ( branch master )
->>>>>>> master
+Menambah baris di file3.txt ( branch main )
 
 Menambah lagi baris utk file3
